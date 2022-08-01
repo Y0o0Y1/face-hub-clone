@@ -8,9 +8,9 @@ module.exports = {
     extend: {
       colors: {
         darkModeColor: "#050A30",
-        lightModeColor: "#7EC8E3",
+        lightModeColor: "#D4F1F4",
         buttonColorLightMode: "#000C66",
-        buttonColorDarkMode: "##0000FF"
+        buttonColorDarkMode: "#189AB4"
 
       }
     },
